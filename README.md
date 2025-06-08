@@ -20,8 +20,6 @@ A beautiful and functional Spotify Clone web app that lets you play your favorit
 
 ## 📸 Screenshots
 
-> _Add your screenshots here!_
-
 | Home Page | Playing Song |
 |-----------|-------------|
 | ![Home Screenshot](bg.jpg) | ![Playing Screenshot](playing.gif) |
